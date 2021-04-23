@@ -1,4 +1,5 @@
 # Calculate a necessary condition where a 3d smooth curve is on a 2d cylinder.
+# Please run it in Ipython, using "ipython 2d_cylinder_in_3d.py".
 
 from sympy import *
 
